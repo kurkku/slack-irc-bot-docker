@@ -8,7 +8,7 @@ git clone https://github.com/kurkku/slack-irc-bot-docker.git
 
 ### Configuration
 
-Copy `config.js.sample` to `config.js` make necessary changes.
+Copy `config.js.sample` to `config.js` and make necessary changes.
 
 See https://github.com/kurkku/slack-irc-bot for information about configuration options.
 
